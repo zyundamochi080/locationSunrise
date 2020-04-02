@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  locationSunrise
 //
-//  Created by Kouga Hoshi on 2020/04/02.
+//  Created on 2020/04/02.
 //  Copyright © 2020 KG. All rights reserved.
 //
 
